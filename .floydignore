@@ -1,0 +1,11 @@
+.*
+!.*ignore
+*.pyc
+*.egg-info
+*.log
+__pycache__
+
+/courses
+/*-py*
+/bootstrap_config_test.py
+/tmp
